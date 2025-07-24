@@ -1,0 +1,1 @@
+# PLN_QA_LLM_2025_Adicley_Adrian_Marcelo
