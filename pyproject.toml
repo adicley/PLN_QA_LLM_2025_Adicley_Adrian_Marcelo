@@ -1,0 +1,13 @@
+[project]
+name = "pln-qa"
+version = "0.1.0"
+description = "Projeto QA para a disciplina de Processamento de Linguagem Natural"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub[hf-transfer]>=0.34.4",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.2.0",
+    "torch>=2.8.0",
+    "transformers>=4.55.0",
+]
