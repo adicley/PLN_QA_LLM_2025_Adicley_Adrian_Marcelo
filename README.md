@@ -3,8 +3,8 @@
 ## Instruções de Configuração
 
 ### Pré-requisitos
-- Gerenciador de pacotes [UV](https://docs.astral.sh/uv/getting-started/installation/) para [./main.py](main.py); ou
-- Ferramenta compatível com Jupyter Notebook para [./main.ipynb](main.ipynb)
+- Gerenciador de pacotes [UV](https://docs.astral.sh/uv/getting-started/installation/) para [main.py](./main.py); ou
+- Ferramenta compatível com Jupyter Notebook para [main.ipynb](./main.ipynb)
 
 ### Como Começar
 
